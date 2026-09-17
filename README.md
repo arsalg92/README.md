@@ -18,10 +18,8 @@ Tools & Technologies
 
 QA Projects
 
-.SauceDemo E-Commerce Testing — Manual & Selenium automation testing
-.Playwright Automation Project — UI and API automation
-.Online Doctor Appointment System — Full-stack application testing
+SauceDemo E-Commerce Testing — Manual & Selenium automation testing, Playwright Automation Project — UI and API automation, Online Doctor Appointment System — Full-stack application testing
 
 Currently Learning
 
-. Advanced Playwright, Selenium with Python, API Automation, SQL for QA
+ Advanced Playwright, Selenium with Python, API Automation, SQL for QA
