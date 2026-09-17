@@ -5,7 +5,7 @@ I'm a BS Information Technology graduate with 1 year of hands-on experience in s
 
 QA Skills
 
-. Manual Testing
+. Manual Testing,
 . Functional Testing
 . Regression Testing
 . Integration Testing
