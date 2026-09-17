@@ -5,25 +5,16 @@ I'm a BS Information Technology graduate with 1 year of hands-on experience in s
 
 QA Skills
 
-. Manual Testing, Functional Testing, Regression Testing, Integration Testing, Exploratory Testing, API Testing, UI Testing, Test Case Design, Bug Reporting
+ Manual Testing, Functional Testing, Regression Testing, Integration Testing, Exploratory Testing, API Testing, UI Testing, Test Case Design, Bug Reporting
 
 Automation
 
-. Playwright
-. JavaScript
-. Selenium
-. Python
+ Playwright, JavaScript, Selenium, Python
 
 
 Tools & Technologies
 
-. Git & GitHub
-. Jira
-. SQL
-. HTML
-. CSS
-. JavaScript
-. MERN Stack
+ Git & GitHub, Jira, HTML, CSS, JavaScript, MERN Stack
 
 QA Projects
 
@@ -33,7 +24,4 @@ QA Projects
 
 Currently Learning
 
-.Advanced Playwright
-. Selenium with Python
-. API Automation
-. SQL for QA
+. Advanced Playwright, Selenium with Python, API Automation, SQL for QA
